@@ -19,7 +19,10 @@ To create a java program that returns the sum of all the values in a 2D array.
 
 
 ## PROGRAM:
+ ```
+/*
 
+*/
 ```
 
 ## Sourcecode.java:
@@ -51,8 +54,7 @@ public class Main
 ```
 ## OUTPUT:
 
-<img width="961" height="213" alt="image" src="https://github.com/user-attachments/assets/1017286e-5254-46e4-b721-edfacdf81466" />
-
+<img width="961" height="213" alt="Screenshot 2025-10-09 205104" src="https://github.com/user-attachments/assets/7aee0f7d-d7be-415f-9708-1c6f52ce5bef" />
 
 
 ## RESULT:
